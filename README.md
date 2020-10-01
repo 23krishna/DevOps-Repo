@@ -2,4 +2,4 @@
 Github Repository
 For DevOps
 By Krishna Mundra
--TIET 2022
+- Thapar Institute of Engineering and Technology
